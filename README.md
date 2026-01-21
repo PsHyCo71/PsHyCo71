@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm PsHyCo
 
 ## 🙋‍♂️ About me
-<p>I'm a young programmer, aiming to improve my skills and cultivate my passion for coding! I have Upper-Intermediate level of knowledge of C# and I look forward to increase it. I want to learn how to create more advanced programs and videogames.</p>
+<p>I'm a young programmer, aiming to improve my skills and cultivate my passion for coding! I have an upper-intermediate level of knowledge in C# and I look forward to improving it. I want to learn how to create more advanced programs and video games.</p>
 
 ## 🌱 I’m currently learning
 
