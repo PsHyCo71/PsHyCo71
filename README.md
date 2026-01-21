@@ -12,7 +12,7 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/3271/3271161.png" alt="7andAHalf" width="40">](https://github.com/PsHyCo71/7andAHalf)
 [<img src="https://cdn-icons-png.flaticon.com/512/2344/2344132.png" alt="ScientificCalculator" width="40">](https://github.com/PsHyCo71/ScientificCalculator)
 
-## 💻 Languages & Tools
+## 💻 Languages I Use & Tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 
 ## 📊 GitHub Stats
