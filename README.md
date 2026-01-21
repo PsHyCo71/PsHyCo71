@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋, I'm PsHyCo
 
-<!--
-**PsHyCo71/PsHyCo71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About me
+<p>I'm a young programmer, aiming to improve my skills and cultivate my passion for coding! I have Upper-Intermediate level of knowledge of C# and I look forward to increase it. I want to learn how to create more advanced programs and videogames.</p>
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cpp" width="40" height="40"/>
+
+## 🖥️ My latest projects
+
+[<img src="https://cdn-icons-png.flaticon.com/512/3271/3271161.png" alt="7andAHalf" width="40">](https://github.com/PsHyCo71/7andAHalf)
+[<img src="https://cdn-icons-png.flaticon.com/512/2344/2344132.png" alt="ScientificCalculator" width="40">](https://github.com/PsHyCo71/ScientificCalculator)
+
+## 💻 Languages & Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+
+## 📊 GitHub Stats
+![PsHyCo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PsHyCo71&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsHyCo71&layout=compact&theme=radical)
