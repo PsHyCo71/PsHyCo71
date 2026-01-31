@@ -17,4 +17,4 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=PsHyCo71&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsHyCo71&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PsHyCo71&layout=compact&theme=radical)
