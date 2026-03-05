@@ -14,6 +14,10 @@
 [<img width="40" src="https://github.com/user-attachments/assets/a92d1795-85b3-4481-ada4-720232f7d35f" />](https://github.com/PsHyCo71/simple_binary_search_algortihm)
 [<img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue/square-root-2-xxl.png" width="40">](https://github.com/PsHyCo71/most_amount_of_rad2_digits_in_1sec)
 
+## ⌨️ Work in progress
+
+Currently working on a password manager in C#
+
 ## 💻 Languages & Tools I Use
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 
