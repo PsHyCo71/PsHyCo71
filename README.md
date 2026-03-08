@@ -12,6 +12,7 @@
 [<img src="https://cdn-icons-png.flaticon.com/512/3271/3271161.png" alt="7andAHalf" width="40">](https://github.com/PsHyCo71/7andAHalf)
 [<img src="https://cdn-icons-png.flaticon.com/512/2344/2344132.png" alt="ScientificCalculator" width="40">](https://github.com/PsHyCo71/ScientificCalculator)
 [<img width="40" src="https://github.com/user-attachments/assets/a92d1795-85b3-4481-ada4-720232f7d35f" />](https://github.com/PsHyCo71/simple_binary_search_algortihm)
+&#8201;
 [<img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue/square-root-2-xxl.png" width="40">](https://github.com/PsHyCo71/most_amount_of_rad2_digits_in_1sec)
 
 ## ⌨️ Currently working on
