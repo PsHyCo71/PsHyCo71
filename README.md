@@ -9,7 +9,7 @@ I'm particularly interested in systems programming, native interop, and building
 
 - Multi-language development
 - Other programming languages: <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cpp" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" alt="cpp" width="40" height="40">
 
 ## 🖥️ My latest projects
 
@@ -25,11 +25,11 @@ I'm particularly interested in systems programming, native interop, and building
 
 
 ## 💻 Languages & Tools I Use
-- Languages: <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40"/>
-- Frameworks: <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-- Tools / IDEs: <br>
+- Languages:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" alt="rust" width="40" height="40">
+- Frameworks:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+- Tools / IDEs:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 
 ## 📊 GitHub Stats
